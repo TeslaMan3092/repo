@@ -81,3 +81,37 @@ Description: IOS 16 ish Music Widget on LockScreen!
 Author: teslaman3092
 Name: 16player
 
+Package: com.teslaman3092.16player
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: teslaman3092
+Installed-Size: 312
+Depends: mobilesubstrate, firmware (>= 13)
+Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget
+Filename: ./debs/com.teslaman3092.16player_1.0.2_iphoneos-arm64.deb
+Size: 14730
+MD5sum: d51e16d45de39f77e131ce83aec9aed6
+SHA1: 17787af95596f0aac686d83698d6370aab900be3
+SHA256: 7665030ff00b9c9d09ee2b800929dc71a58e6f30274df8689f6c568d83a3928a
+Section: Tweaks
+Description: IOS 16 ish Music Widget on LockScreen!
+Author: teslaman3092
+Name: 16player
+
+Package: com.teslaman3092.16player
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: teslaman3092
+Installed-Size: 312
+Depends: mobilesubstrate, firmware (>= 13)
+Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget
+Filename: ./debs/com.teslaman3092.16player_1.0.2_iphoneos-arm.deb
+Size: 14682
+MD5sum: ead18190598a4ef52c0be46a462859f7
+SHA1: 366d0de5c881ac2327da64bb781b2cdc5bbb21b6
+SHA256: 43621f9afd921d24060e2332679f014541d3f34b7f7459d1917032e94019430f
+Section: Tweaks
+Description: IOS 16 ish Music Widget on LockScreen!
+Author: teslaman3092
+Name: 16player
+
