@@ -27,12 +27,13 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
 Package: com.teslaman3092.16player
-Section: Tweaks
 Name: 16player
 Depends: mobilesubstrate, firmware (>= 15)
 Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget
 Version: 1.0.0
+Size: 18914
 Architecture: iphoneos-arm64
+Filename: ./debs/com.teslaman3092.16player_1.0.0_iphoneos-arm64.deb
 Description: IOS 16 ish Music Widget on LockScreen!
 Maintainer: teslaman3092
 Author: teslaman3092
