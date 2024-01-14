@@ -65,7 +65,7 @@ This data are the links that appear at the bottom of every depication. The data 
     <footerlinks>
         <link>
             <name>Follow me on Twitter</name>
-            <url>https://twitter.com/reposi3</url>
+            <url>https://twitter.com/tesla_man3092</url>
             <iconclass>glyphicon glyphicon-user</iconclass>
         </link>
         <link>
@@ -94,7 +94,7 @@ Rename the duplicate with the same name as your package name.
 There are 2 files inside the folder - `info.xml` and `changelog.xml`.
 Update the 2 files with information regading your package.
 The tags are pretty much self-explanatory.
-Contact [@reposi3](https://twitter.com/reposi3) for questions.
+Contact [@reposi3](https://twitter.com/tesla_man3092) for questions.
 
 `info.xml`.
 ```xml
