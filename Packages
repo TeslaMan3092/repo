@@ -26,3 +26,15 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.teslaman3092.16player
+Section: Tweaks
+Name: 16player
+Depends: mobilesubstrate, firmware (>= 15)
+Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: IOS 16 ish Music Widget on LockScreen!
+Maintainer: teslaman3092
+Author: teslaman3092
+Section: Tweaks
+
