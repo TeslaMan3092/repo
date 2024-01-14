@@ -2,6 +2,7 @@
 	<id>com.teslaman3092.16player</id>
 	<name>16player</name>
 	<version>1.0.0</version>
+	<architecture>iphoneos-arm64</architecture>
 	<compatibility>
 		<firmware>
 			<maxiOS>15</maxiOS>
@@ -20,7 +21,7 @@
 		<change>Initial release</change>
 	</changelog>
 	<links>
-		<name>Follow me on https://twitter.com/tesla_man3092</name>
+		<name>Follow me on 𝕏(twitter)</name>
 		<url>https://https://twitter.com/tesla_man3092.com/tesla_man3092</url>
 		<iconclass>fa fa-https://twitter.com/tesla_man3092</iconclass>
 	</links>
