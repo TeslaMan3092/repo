@@ -1,0 +1,27 @@
+<package>
+	<id>com.teslaman3092.16player</id>
+	<name>16player</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>15</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>A tweak to make the LS player look like ios 16 and add make the media control button on the CC and LS players function/look like ios16's</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<name>Follow me on https://twitter.com/tesla_man3092</name>
+		<url>https://https://twitter.com/tesla_man3092.com/tesla_man3092</url>
+		<iconclass>fa fa-https://twitter.com/tesla_man3092</iconclass>
+	</links>
+</package>
