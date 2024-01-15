@@ -149,3 +149,35 @@ Description: IOS 16 ish Music Widget on LockScreen!
 Author: teslaman3092
 Name: 16player
 
+Package: com.teslaman3092.hideroutingbutton
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: teslaman3092
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.teslaman3092.hideroutingbutton_1.0.0_iphoneos-arm64.deb
+Size: 3374
+MD5sum: bc8d100016d1c914a429ec874df453f5
+SHA1: 6e6efd93d5d3759faa80d0c632d2d9fd1d8dbecb
+SHA256: 34b8b94aed19bdc2c18444e671d3e9224d1342b912812ff8a020e4e209a77620
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: teslaman3092
+Name: hideRoutingButton
+
+Package: com.teslaman3092.hideroutingbutton
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: teslaman3092
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.teslaman3092.hideroutingbutton_1.0.0_iphoneos-arm.deb
+Size: 3308
+MD5sum: d1a8b79268c20fc144b9ab379b385c2b
+SHA1: fdd3ca0fb949343188310755792c1d692057e278
+SHA256: a4a6ddbdfe6919f7d65bfaaa7fc09e8a2fb12699bb290721a1389d0ebd9fe37b
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: teslaman3092
+Name: hideRoutingButton
+
