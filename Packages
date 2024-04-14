@@ -32,6 +32,42 @@ Author: Ethan Whited, tesla_man
 Icon: https://camo.githubusercontent.com/0776384d0ff2fb7cf3ffc978fac70648ef0e8033d6070ace65a11bede364ef43/68747470733a2f2f692e6962622e636f2f6d52436a3476462f4172742d46756c6c2d49636f6e2e706e67
 Name: ArtFull (Forked by tesla_man)
 
+Package: com.teslaman3092.artfull
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: Ethan Whited, tesla_man
+Installed-Size: 456
+Depends: com.opa334.libsandy, mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3), firmware (>= 14.0), firmware (<= 17.0)
+Conflicts: com.nahtedetihw.artfull
+Filename: ./debs/com.teslaman3092.artfull_1.4_iphoneos-arm64.deb
+Size: 55456
+MD5sum: f0f0f56598c5dca51bd82913eba062c7
+SHA1: 196133f00c9ed324ed3519e9629ac6d416e477a3
+SHA256: 7ba80ada078c60d7aad6040ea86effc70118628641650af7bb6a437eccbe78af
+Section: Tweaks
+Description: Make the Apple Music and Podcasts app look like iOS 17! Plus make LS player and CC player look like IOS 16! And be sure to get 16Player at Chariz repo s0n!!!
+Author: Ethan Whited, tesla_man
+Icon: https://camo.githubusercontent.com/0776384d0ff2fb7cf3ffc978fac70648ef0e8033d6070ace65a11bede364ef43/68747470733a2f2f692e6962622e636f2f6d52436a3476462f4172742d46756c6c2d49636f6e2e706e67
+Name: ArtFull (Forked by tesla_man)
+
+Package: com.teslaman3092.artfull
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Ethan Whited, tesla_man
+Installed-Size: 456
+Depends: com.opa334.libsandy, mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3), firmware (>= 14.0), firmware (<= 17.0)
+Conflicts: com.nahtedetihw.artfull
+Filename: ./debs/com.teslaman3092.artfull_1.4_iphoneos-arm.deb
+Size: 55504
+MD5sum: c76bdb6dd7f47392fa8598711693a711
+SHA1: c574081cce95e5b06583e574fefc7c1592a19cc7
+SHA256: dd986422c5d71bd6d571e88f88038a50c1e99fe18fca40093a107aadc231df76
+Section: Tweaks
+Description: Make the Apple Music and Podcasts app look like iOS 17! Plus make LS player and CC player look like IOS 16! And be sure to get 16Player at Chariz repo s0n!!!
+Author: Ethan Whited, tesla_man
+Icon: https://camo.githubusercontent.com/0776384d0ff2fb7cf3ffc978fac70648ef0e8033d6070ace65a11bede364ef43/68747470733a2f2f692e6962622e636f2f6d52436a3476462f4172742d46756c6c2d49636f6e2e706e67
+Name: ArtFull (Forked by tesla_man)
+
 Package: com.teslaman3092.hideroutingbutton
 Version: 1.0.0
 Architecture: iphoneos-arm64
