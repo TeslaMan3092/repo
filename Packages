@@ -100,3 +100,35 @@ Description: An awesome MobileSubstrate tweak!
 Author: teslaman3092
 Name: hideRoutingButton
 
+Package: com.teslaman3092.quickactionsborder
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: tesla_man
+Installed-Size: 348
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.teslaman3092.quickactionsborder_1.0.0_iphoneos-arm.deb
+Size: 8444
+MD5sum: a643dcf258ca8c3d025a5eeb060af4f3
+SHA1: 3ba2f8ed220480db0821097edad33f7d0bfa5a11
+SHA256: d26efe169de11912ac1e20343f0bf827f898e13bf8325ef4afbd2d455df6c73a
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: tesla_man
+Name: QuickActionsBorder
+
+Package: com.teslaman3092.quickactionsborder
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: tesla_man
+Installed-Size: 348
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.teslaman3092.quickactionsborder_1.0.0_iphoneos-arm64.deb
+Size: 8402
+MD5sum: 9593e0d1e9190827dea429f3aedb8e9a
+SHA1: 5208fa73386108a579b9b7c825af4686068e153d
+SHA256: 5f44f4b5a2f9689d59317c5a99bc4bab30dcf0f5cfef476c5a3e45d7ce6db53a
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: tesla_man
+Name: QuickActionsBorder
+
