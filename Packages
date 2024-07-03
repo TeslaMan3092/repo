@@ -1,3 +1,37 @@
+Package: com.ryannair05.audiosnapshotserver
+Version: 2.1.2
+Architecture: iphoneos-arm
+Maintainer: Ryan Nair
+Installed-Size: 168
+Replaces: io.ominousness.ass, me.conorthedev.audiosnapshotserver
+Provides: io.ominousness.ass, me.conorthedev.audiosnapshotserver
+Filename: ./debs/com.ryannair05.audiosnapshotserver_2.1.2_iphoneos-arm.deb
+Size: 4778
+MD5sum: d27bcb10a7d0bb444447be604de1fa67
+SHA1: 9ad3098fdd00970c1196acfecca814d5675b2326
+SHA256: 1fffaee1cc6e50e24ba730768c1a93da0b88ec0117569956c401faa7187c4e2a
+Section: Development
+Description: A modified iOS mediaserverd hook to serve snapshots of current audio buffer via TCP/IP
+Author: Ryan Nair and Nepeta
+Name: AudioSnapshotServer
+
+Package: com.ryannair05.audiosnapshotserver
+Version: 2.1.2
+Architecture: iphoneos-arm64
+Maintainer: Ryan Nair
+Installed-Size: 168
+Replaces: io.ominousness.ass, me.conorthedev.audiosnapshotserver
+Provides: io.ominousness.ass, me.conorthedev.audiosnapshotserver
+Filename: ./debs/com.ryannair05.audiosnapshotserver_2.1.2_iphoneos-arm64.deb
+Size: 4866
+MD5sum: 7bc36d96004c5f9838f6d533183b4880
+SHA1: be1eed11613b68543f641f13feb825fbfaf9bf88
+SHA256: ed47e74447d3feae7e70491be433c0212494833d76766305be9420ac6d8b3723
+Section: Development
+Description: A modified iOS mediaserverd hook to serve snapshots of current audio buffer via TCP/IP
+Author: Ryan Nair and Nepeta
+Name: AudioSnapshotServer
+
 Package: com.teslaman3092.artfull
 Version: 1.3
 Architecture: iphoneos-arm
