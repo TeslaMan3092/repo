@@ -102,6 +102,40 @@ Author: Ethan Whited, tesla_man
 Icon: https://camo.githubusercontent.com/0776384d0ff2fb7cf3ffc978fac70648ef0e8033d6070ace65a11bede364ef43/68747470733a2f2f692e6962622e636f2f6d52436a3476462f4172742d46756c6c2d49636f6e2e706e67
 Name: ArtFull (Forked by tesla_man)
 
+Package: com.teslaman3092.colorkb
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: tesla_man
+Installed-Size: 348
+Depends: mobilesubstrate, com.opa334.libsandy, com.mrgcgamer.libgcuniversal
+Conflicts: com.easy-z.bark
+Filename: ./debs/com.teslaman3092.colorkb_1.0.0_iphoneos-arm64.deb
+Size: 12710
+MD5sum: 4bbe5569da4ec629e8ee058fd5d95440
+SHA1: c61d23fd979d0845c980781f18040be9b1e88be5
+SHA256: 6d3b4fa6262e6639bf1f97203f129bea4a31902d61a00faea66560dea3ca8ab7
+Section: Tweaks
+Description: Change the background color of your keyboard.
+Author: Easy-Z, tesla_man
+Name: colorKB
+
+Package: com.teslaman3092.colorkb
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: tesla_man
+Installed-Size: 348
+Depends: mobilesubstrate, com.opa334.libsandy, com.mrgcgamer.libgcuniversal
+Conflicts: com.easy-z.bark
+Filename: ./debs/com.teslaman3092.colorkb_1.0.0_iphoneos-arm.deb
+Size: 12816
+MD5sum: 87e2a0d27b52edb65d27d8255dc34c22
+SHA1: 962b4e5ff0572ccebb46564f11e445c3ac3bcbdd
+SHA256: 698ecdca2635157201f4a1ea1a8d7d7d7f5b52e915a4e2fd1de88f98ec1db90f
+Section: Tweaks
+Description: Change the background color of your keyboard.
+Author: Easy-Z, tesla_man
+Name: colorKB
+
 Package: com.teslaman3092.hideroutingbutton
 Version: 1.0.0
 Architecture: iphoneos-arm64
