@@ -110,10 +110,10 @@ Installed-Size: 348
 Depends: mobilesubstrate, com.opa334.libsandy, com.mrgcgamer.libgcuniversal
 Conflicts: com.easy-z.bark
 Filename: ./debs/com.teslaman3092.colorkb_1.0.0_iphoneos-arm64.deb
-Size: 12710
-MD5sum: 4bbe5569da4ec629e8ee058fd5d95440
-SHA1: c61d23fd979d0845c980781f18040be9b1e88be5
-SHA256: 6d3b4fa6262e6639bf1f97203f129bea4a31902d61a00faea66560dea3ca8ab7
+Size: 12514
+MD5sum: ab8bbec0d66b8630628abdc5488c62ca
+SHA1: dfbdd584b6a3559f44c64b578d306e7d4141aff0
+SHA256: 3927226b0b28d60e959ad29ab3d16552e9797fe987b321385aafff83285a8c14
 Section: Tweaks
 Description: Change the background color of your keyboard.
 Author: Easy-Z, tesla_man
@@ -127,10 +127,10 @@ Installed-Size: 348
 Depends: mobilesubstrate, com.opa334.libsandy, com.mrgcgamer.libgcuniversal
 Conflicts: com.easy-z.bark
 Filename: ./debs/com.teslaman3092.colorkb_1.0.0_iphoneos-arm.deb
-Size: 12816
-MD5sum: 87e2a0d27b52edb65d27d8255dc34c22
-SHA1: 962b4e5ff0572ccebb46564f11e445c3ac3bcbdd
-SHA256: 698ecdca2635157201f4a1ea1a8d7d7d7f5b52e915a4e2fd1de88f98ec1db90f
+Size: 12610
+MD5sum: bebc88cee0e5bb337774f32e2e962b91
+SHA1: f002322a178210efd1e138663e0e3762fc68a781
+SHA256: b0ac9af65c5a7defdc47bc4dc10668c7e7503ddb6483548843d384aba20d3661
 Section: Tweaks
 Description: Change the background color of your keyboard.
 Author: Easy-Z, tesla_man
