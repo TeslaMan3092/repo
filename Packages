@@ -102,6 +102,23 @@ Author: Ethan Whited, tesla_man
 Icon: https://camo.githubusercontent.com/0776384d0ff2fb7cf3ffc978fac70648ef0e8033d6070ace65a11bede364ef43/68747470733a2f2f692e6962622e636f2f6d52436a3476462f4172742d46756c6c2d49636f6e2e706e67
 Name: ArtFull (Forked by tesla_man)
 
+Package: com.teslaman3092.colorclock
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: tesla_man
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.teslaman3092.colorclock_1.0.0_iphoneos-arm64.deb
+Size: 33660
+MD5sum: 1f03aa6655e779aa9f73f6e0de3fb5e2
+SHA1: ed4357b1e63d6dd8105b48cfaac0387efc366345
+SHA256: 97574d2ceaa40d063f15e385b0a3b9a077c775a9a9d658afe636e7e717b49ced
+Section: Tweaks
+Description: Independently change the colors of your time and date on your iOS or iPadOS device on iOS16 and above.
+Author: tesla_man
+Icon: https://github.com/TeslaMan3092/repo/blob/master/depictions/tweak-icons/ColorClock500x500.png?raw=true
+Name: ColorClock
+
 Package: com.teslaman3092.colorkb
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -199,4 +216,22 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: tesla_man
 Name: QuickActionsBorder
+
+Package: com.teslaman3092.seclock
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: teslaman3092
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.teslaman3092.sectuah
+Filename: ./debs/com.teslaman3092.seclock_1.0.0_iphoneos-arm64.deb
+Size: 6286
+MD5sum: c980b48abe7cf23bcafd186493fb3e91
+SHA1: ffcc964b6398ad6d34ced59aaedce97afbbfdebb
+SHA256: c8d04b1ea837cfb77ace130158daad4f7bdfc50df6f5b67571dd344b540092bd
+Section: Tweaks
+Description: Add seconds to your clock on iOS 16 and above!
+Author: teslaman3092
+Icon: https://github.com/TeslaMan3092/repo/blob/master/depictions/tweak-icons/SecLock-Stolen.png?raw=true
+Name: SecLock
 
