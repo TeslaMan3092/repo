@@ -119,6 +119,40 @@ Author: tesla_man
 Icon: https://github.com/TeslaMan3092/repo/blob/master/depictions/tweak-icons/ColorClock500x500.png?raw=true
 Name: ColorClock
 
+Package: com.teslaman3092.colorclock
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: tesla_man
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.teslaman3092.colorclock_1.0.1_iphoneos-arm.deb
+Size: 35618
+MD5sum: 96ae19150d80b0066d3fad92797dec11
+SHA1: fc7c40c8b81364ba09f4ba9cd0b467e127fcc36a
+SHA256: 8a2ce94efec7f338addd2238589726bbf8fd269240485a57e19e0cd379e31fa0
+Section: Tweaks
+Description: Independently change the colors of your time and date on your iOS or iPadOS device on iOS13 and above.
+Author: tesla_man
+Icon: https://github.com/TeslaMan3092/repo/blob/master/depictions/tweak-icons/ColorClock500x500.png?raw=true
+Name: ColorClock
+
+Package: com.teslaman3092.colorclock
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: tesla_man
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.teslaman3092.colorclock_1.0.1_iphoneos-arm64.deb
+Size: 35600
+MD5sum: 43aabc031b7fce4685f44b5df7f33265
+SHA1: f31f318d26d6155f0de5dff6fe3908373bdaecfb
+SHA256: a35534fbc356964577db1a4d6468758e7dfd35ee919a4643b8762eb5c383b63f
+Section: Tweaks
+Description: Independently change the colors of your time and date on your iOS or iPadOS device on iOS13 and above.
+Author: tesla_man
+Icon: https://github.com/TeslaMan3092/repo/blob/master/depictions/tweak-icons/ColorClock500x500.png?raw=true
+Name: ColorClock
+
 Package: com.teslaman3092.colorkb
 Version: 1.0.0
 Architecture: iphoneos-arm64
