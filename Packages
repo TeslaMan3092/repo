@@ -32,6 +32,38 @@ Description: A modified iOS mediaserverd hook to serve snapshots of current audi
 Author: Ryan Nair and Nepeta
 Name: AudioSnapshotServer
 
+Package: com.teslaman3092.15clockcolorinvert
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: teslaman3092
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.teslaman3092.15clockcolorinvert_1.0.0_iphoneos-arm.deb
+Size: 3162
+MD5sum: b56786609b9c34195d9e65ab561da6a1
+SHA1: 3e45192c3dae6627025730abaae2759ecbe977ed
+SHA256: 6e1ea80b7879f82d40352cbf8157a2eb59575e4b7fbb583bbb0d8cbad8085fd3
+Section: Tweaks
+Description: Invert the ios 15 lock icon color (make it black)
+Author: teslaman3092
+Name: 15clockColorInvert
+
+Package: com.teslaman3092.15clockcolorinvert
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: teslaman3092
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.teslaman3092.15clockcolorinvert_1.0.0_iphoneos-arm64.deb
+Size: 3242
+MD5sum: 1ad5d08ca234ed1d0738524e96b496e2
+SHA1: f7c3cccf8837dce8bb5543ae7c55a7d9d4f04f8c
+SHA256: f61a02c188817d6b84b5e1c37640fad4fbfd2babb163d922951f36ebaab99894
+Section: Tweaks
+Description: Invert the ios 15 lock icon color (make it black)
+Author: teslaman3092
+Name: 15clockColorInvert
+
 Package: com.teslaman3092.artfull
 Version: 1.3
 Architecture: iphoneos-arm
